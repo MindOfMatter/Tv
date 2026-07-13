@@ -1,0 +1,7 @@
+#EXTM3U
+#EXTINF:0,Vidéo test 1
+https://videos.pexels.com/video-files/6274203/6274203-sd_426_226_30fps.mp4
+#EXTINF:0,Vidéo test 2
+https://sample-videos.com/video321/mp4/720/big_buck_bunny_720p_1mb.mp4
+#EXTINF:0,Vidéo test 3
+https://sample-videos.com/video321/mp4/720/big_buck_bunny_720p_5mb.mp4
